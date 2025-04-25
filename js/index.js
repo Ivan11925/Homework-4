@@ -49,7 +49,7 @@ console.log(number);
 console.log(numberRangeMessage);
 
 const myName = "ivan";
-const myEmail = "vistakivan11@gmail.com";
+const myEmail = "vistakivan11@.gmail.com";
 const password = "secret123";
 const validationMessage = document.createElement("div");
 const isNameValid = name.length >= 3;
